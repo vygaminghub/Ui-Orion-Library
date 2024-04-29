@@ -163,10 +163,10 @@ do
             ThunderImageUI.BorderSizePixel = 0
             ThunderImageUI.Position = UDim2.new(0.0, 0, 0.0, 0)
             ThunderImageUI.Size = UDim2.new(0, 50, 0, 50)
-            ThunderImageUI.Image = "http://www.roblox.com/asset/?id=13717478897"
+            ThunderImageUI.Image = "http://www.roblox.com/asset/?id="
     
-    _G.Logo = 
-    _G.Logo1 = 13717478897
+    _G.Logo = 14103696428
+    _G.Logo1 = 
     local UI = Instance.new("ScreenGui")
     UI.Name = randomString
     UI.Parent = game.CoreGui:WaitForChild("RobloxGui"):WaitForChild("Modules")
